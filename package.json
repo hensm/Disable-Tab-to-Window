@@ -1,0 +1,15 @@
+{
+  "title": "Disable Tab-to-Window",
+  "name": "disabletabtowindow",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Marcii <marcii@cssu.in>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
